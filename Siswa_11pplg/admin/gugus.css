@@ -1,0 +1,29 @@
+.container {
+    position: relative;
+    left: 50%;
+    transform: translateY(-50%);
+}
+
+.judul {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tambah {
+    background-color: burlywood;
+    color: white;
+    border-radius: 7px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.tambah:hover{
+    color: black;
+    background-color: coral;
+}
+
+td {
+    text-align: center;
+}
